@@ -2,6 +2,7 @@
   font-family: "Poppins", serif;
   color: black;
   margin: 0;
+  box-sizing: border-box;
 }
 
 body {
